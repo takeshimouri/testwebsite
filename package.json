@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/takeshimouri/testwebsite.git"
   },
-  "keywords": [],
+  "keywords": [auto deploy],
   "author": "",
   "license": "ISC",
   "bugs": {
